@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button_test</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="help">HELP</string>
+</resources>
